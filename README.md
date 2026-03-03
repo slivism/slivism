@@ -1,5 +1,19 @@
-Code tends to decay when left unattended. I spend a lot of weekends poking at abandoned issues in open source projects, trying to sand down the rough edges before they become splinters. It’s satisfying work.
+## From pixels to pointers
 
-My usual toolbox is JavaScript, Vue for the frontend, and MongoDB backing things up. I get especially interested when these stack up in the cloud—deployment patterns and making things run efficiently out there is a genuine fascination of mine.
+I used to design interfaces — now I build the systems behind them. That background means I still get distracted by a misaligned element or a janky animation ⚙️🎨.
 
-Most of my public work is in various states of maintenance or collaboration. If you find something useful, or broken, feel free to dive in.
+**Current focus**
+- Building graphics & simulation tools with **C++**, **OpenGL**, and **CMake**
+- Occasionally dabbling in mobile dev (Swift/Kotlin) to stay close to the user
+- Believing that good engineering includes thoughtful UX, even under the hood
+
+**Tools & output**
+| Area          | Stack                          |
+|---------------|--------------------------------|
+| Core          | C++17/20, CMake, OpenGL/GLSL  |
+| Side quests   | SwiftUI, Android (Kotlin)     |
+| Output        | Performance-first applications |
+
+![stats](https://github-readme-stats.vercel.app/api?username=slivism&show_icons=true&theme=tokyonight&hide_border=true)
+
+I’m probably debugging a render loop right now, but I’ll still pause to adjust a padding value that’s one pixel off.
