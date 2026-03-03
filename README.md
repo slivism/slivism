@@ -1,20 +1,20 @@
 ## Hey, I'm slivism 👨‍💻
 
-Passionate about **game development** and building cool things with **C++**.
+Passionate about **open source** and building cool things with **Python**.
 
 ### 🛠 Technologies
 
-- **Primary:** C++, CMake
-- **Secondary:** OpenGL
+- **Primary:** Python, FastAPI
+- **Secondary:** Redis
 - **Learning:** More every day
 
 ### 📊 GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slivism&layout=compact&theme=onedark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slivism&layout=compact&theme=gruvbox&hide_border=true)
 
 ### 🎯 Current Focus
 
-Working on projects related to **cloud computing** and exploring the possibilities of **C++**.
+Working on projects related to **distributed systems** and exploring the possibilities of **Python**.
 
 ---
 Feel free to check out my repositories below!
