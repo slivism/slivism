@@ -1,13 +1,5 @@
-**Hi, I'm slivism**  
-I build things that live on the internet—usually tools to automate the boring stuff or small web apps that solve a specific itch.
+Code tends to decay when left unattended. I spend a lot of weekends poking at abandoned issues in open source projects, trying to sand down the rough edges before they become splinters. It’s satisfying work.
 
-**Current toolbox**  
-- **Python** for scripting, data wrangling, and backend logic  
-- **Go** when I need something fast and lean  
-- **React** for the occasional frontend project  
+My usual toolbox is JavaScript, Vue for the frontend, and MongoDB backing things up. I get especially interested when these stack up in the cloud—deployment patterns and making things run efficiently out there is a genuine fascination of mine.
 
-**Beyond the keyboard**  
-When I’m not staring at a terminal, I’m probably hiking a local trail or trying to perfect my sourdough loaf.  
-
-**Let’s connect**  
-Open to collaborating on interesting open-source projects or discussing ideas. Feel free to reach out!
+Most of my public work is in various states of maintenance or collaboration. If you find something useful, or broken, feel free to dive in.
