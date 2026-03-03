@@ -1,12 +1,17 @@
-**slivism – startup dev who ships things fast**
+## 🎵 formerly of the symphony, now of the synapse
 
-I build Android apps for real people to actually use. My workday is usually a mix of Kotlin, Firebase, and wearing every other hat that needs wearing.
+Hi, I'm **slivism**. I spent years in the conductor's booth, translating abstract notation into a cohesive, living performance. These days, I orchestrate APIs instead of orchestras. The core principles feel surprisingly similar: listening for discord, balancing competing voices, and building something greater than the sum of its parts.
 
-- Prefer building features that ship this week over architecture that might matter next year  
-- Proudest of the messy parts that users touch, not the clean code they never see
-- Keep a few open source side-projects simmering because sometimes the itch needs scratching
-- Strong opinion: if your build takes more than 90 seconds, we have a problem
+I build **expressive, resilient backends** with Python & FastAPI, using Redis as my persistent metronome to keep everything in time. I'm fascinated by the flow of data—its rhythm, its tempo, its potential for harmony or cacophony.
 
-![stats](https://github-readme-stats.vercel.app/api?username=slivism&show_icons=true&theme=tokyonight&hide_border=true)
+### 🛠 current instruments
+- **Python & FastAPI:** For crafting clear, declarative APIs that feel like well-scored sheet music.
+- **Redis:** My go-to for state, caching, and message brokering. It's the perfect session musician.
+- **Mobile Development** *(my side stage):* I tinker with Kotlin and Swift, chasing that elusive feeling of a perfect, tactile interaction. I firmly believe a great mobile app should feel as intuitive as a well-worn instrument.
 
-Building something? Let’s see if we can get it out the door.
+![stats](https://github-readme-stats.vercel.app/api?username=slivism&show_icons=true&theme=synthwave&hide_border=true)
+
+### 🍵 off the podium
+You'll often find me with a lukewarm cup of tea I've forgotten to drink, deep in some rabbit hole about declarative UI frameworks. I have a possibly unhealthy habit of mentally refactoring real-world processes into async event loops.
+
+Most of my work is behind the curtain on private projects, but I leave the reusable components and odd utilities here in the light. Think of it as publishing études.
